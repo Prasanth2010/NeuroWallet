@@ -1,4 +1,4 @@
-# Run and deploy your VS code
+# Run and deploy on your VS code
 
 This contains everything you need to run your app locally.
 
